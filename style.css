@@ -1,0 +1,30 @@
+h1{
+   border: solid;
+   background-color: rgb(204, 213, 187);
+
+}
+div h2{
+    border: solid;
+    background-color: rgb(91, 44, 173);
+ 
+ }
+
+p{
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#p1{
+
+    background-color: antiquewhite;
+}
+.odd{
+    color: rgb(239, 0, 0);
+}
+.even{
+
+color: blue;
+}
+.underline{
+  text-decoration: underline;
+}
